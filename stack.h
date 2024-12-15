@@ -1,7 +1,7 @@
 #ifndef STACK_H
 #define STACK_H
 #include <stdbool.h> 
-
+int Busan;
 typedef int Item;
 typedef struct stack {
 Item * contents;
